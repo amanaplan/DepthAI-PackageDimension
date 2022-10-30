@@ -1,11 +1,8 @@
-# DepthAI-Package Dimension Measurement
+# DepthAI Parcel Dimensioning System
 
-## Series of Depth AI project for those who wan't to explore more into OAK-D and DepthAI vision system.
+A project that classifies and measures the dimensions of parcels using DepthAI and the OAK-D S3 Camera. Featuring a clean dashboard for displaying measurements, it also includes AI-enabled add-ons for detecting open, leaking, and broken boxes and for optimizing packaging (WIP).
 
-## Projects > PackagingBox Measurement
-DepthAI + OAK-D Camera Parcel dimension measurement with custom dashboard with AI-enabled add-ons such as open, leaking, and broken box detection and packaging optimization to improve workforce efficiency and safety (In progress)
+![Brief screen recording of the project's user interface](Projects/PackagingBox%20Measurement/Images/calibBig.gif)
 
-<img src="https://github.com/vilaksh01/DepthAI-LazyProjects/blob/main/Projects/PackagingBox%20Measurement/Images/calibBig.gif">
-
-See project deails here: https://github.com/vilaksh01/DepthAI-LazyProjects/tree/main/Projects/PackagingBox%20Measurement
+Read the [full details of the project](Projects/PackagingBox%20Measurement) for more information
 
